@@ -1,4 +1,4 @@
-# Magento 2 Bundle Configurable Products Extension by Magetop
+# Magento 2 Bundle Configurable Products by Magetop
 
 **Bundle Configurable Products for Magento Extension** is a powerful tool that allows merchants to offer customized product bundles that meet their customers unique needs. With this tool, merchants can link configurable products to bundle products and allow customers to personalize their options. With this extension, configuring and adding custom, configurable bundles has become significantly easier.
 
