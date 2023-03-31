@@ -23,8 +23,8 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-bundle-configurable-products-extension.html
-- Frontend demo : https://livedemo.magetop.com/bundle_config/advance-bundle-t-shirt.html
-- Backend demo : https://livedemo.magetop.com/bundle_config/admin
+- Bundle demo : https://livedemo.magetop.com/bundle_config/advance-bundle-t-shirt.html
+- Configurable demo : https://livedemo.magetop.com/bundle_config/circe-hooded-ice-fleece.html
 
 ## Support & contact info
 
